@@ -1,0 +1,15 @@
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\bin\Debug\net6.0\burgerApp.exe
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\bin\Debug\net6.0\burgerApp.deps.json
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\bin\Debug\net6.0\burgerApp.runtimeconfig.json
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\bin\Debug\net6.0\burgerApp.dll
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\bin\Debug\net6.0\burgerApp.pdb
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\burgerApp.csproj.AssemblyReference.cache
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\burgerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\burgerApp.AssemblyInfoInputs.cache
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\burgerApp.AssemblyInfo.cs
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\burgerApp.csproj.CoreCompileInputs.cache
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\burgerApp.dll
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\refint\burgerApp.dll
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\burgerApp.pdb
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\burgerApp.genruntimeconfig.cache
+C:\Users\ngobe\Documents\C#\burgerApp\burgerApp\obj\Debug\net6.0\ref\burgerApp.dll
